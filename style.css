@@ -29,7 +29,7 @@ nav {
     }
 
 
-aside {
+Aside {
     color: #777;
     background-color: #ebebeb;
     font-size: 18px;
@@ -38,9 +38,6 @@ aside {
     padding-top: 30px;
     padding-bottom: 150px;
     float: left;
-
-
-
 
 }
 
@@ -53,6 +50,8 @@ section {
     padding-top: 30px;
     padding-bottom: 150px;
 }
+
+
 
 
 
