@@ -22,13 +22,14 @@ color: grey;
 }
 
 section {
-
-width: 50%;
+float: left;
+width: 55%;
 line-height: 50px;
 text-align: center;
 background-color: white;
 color: grey;
 padding-bottom: 1%;
+margin-bottom: 2%;
 }
 
 .container {
@@ -66,10 +67,12 @@ padding-bottom: 1%;
 
 
 aside {
+float: right;
 text-align: center;
-width: 45%;
+width: 42%;
 background-color: white;
 color: grey;
+padding-bottom: 246px;
 }
 
 footer {
